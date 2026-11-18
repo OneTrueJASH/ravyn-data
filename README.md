@@ -1,8 +1,7 @@
 # ravyn-data
 
 Data files for [RAVYN](https://github.com/OneTrueJASH/ravyn), kept out of
-the engine's source and crate and fetched on demand, as RefEngine does with
-a separate data repository:
+the engine's source and crate and fetched on demand:
 
 ```bash
 ravyn fetch-data          # into ~/.ravyn/data (or --data DIR)

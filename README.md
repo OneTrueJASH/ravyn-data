@@ -21,3 +21,5 @@ nothing that does not match. The engine pins the version it fetches.
 
 - `v20261118`: words.fst (196,419 words), leaves.rlv (921,298 leaves,
   three generations of 500,000 self-play games), crossplay-removed.txt.
+
+RAVYN is an independent project, not affiliated with Crossplay or Scrabble.
